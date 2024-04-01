@@ -1,4 +1,4 @@
-// AOS.init({ duration: 1000, offset: 100,easing: 'ease-in-out', once: true});
+AOS.init({ duration: 1000, offset: 100,easing: 'ease-in-out', once: true});
 /// HEADER TOGGLE
 const burger = document.querySelector(".header__toggle");
   const menu = document.querySelector(".header__menu");
